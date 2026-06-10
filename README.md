@@ -1,19 +1,18 @@
 # Introduction to Programming — CSE141
-
 ![C++](https://img.shields.io/badge/Language-C%2B%2B17-blue?style=flat-square)
 ![IBA](https://img.shields.io/badge/Institute-IBA%20Karachi-yellow?style=flat-square)
 ![Course](https://img.shields.io/badge/Course-CSE141-lightgrey?style=flat-square)
 
-My lab work and assignments from Introduction to Programming at IBA Karachi. This was my first proper C++ course — it started from the absolute basics and built up to pointers, structs, and linked lists by the end.
+My lab work, assignments, and mini projects from Introduction to Programming at IBA Karachi. This was my first proper C++ course — it started from the absolute basics and built up to pointers, structs, and linked lists by the end.
 
-Looking back at Lab 1 versus Lab 13 is a pretty good indicator of how much ground the course covered.
+Looking back at Lab 1 versus Lab 12 is a pretty good indicator of how much ground the course covered.
 
 ---
 
 ## 📂 Structure
 
 ```
-itp-cs101/
+itp-cs141/
 ├── Labs/
 │   ├── Lab01/    → basics, I/O, escape sequences
 │   ├── Lab02/    → variables, data types, arithmetic
@@ -28,11 +27,16 @@ itp-cs101/
 │   ├── Lab11/    → dynamic memory
 │   └── Lab12/    → more pointers and memory
 │
-└── Assignments/
-    ├── Assignment01/
-    ├── Assignment02/
-    ├── Assignment03/
-    └── Assignment04/
+├── Assignments/
+│   ├── Assignment01/
+│   ├── Assignment02/
+│   ├── Assignment03/
+│   └── Assignment04/
+│
+└── Projects/
+    ├── Car-Rental/         → arrays, loops, boolean availability tracking
+    ├── Expense-Tracker/    → vectors, functions, category-wise spending
+    └── Grade-Management/   → arrays, grade calculation, class average
 ```
 
 ---
@@ -49,6 +53,20 @@ itp-cs101/
 | **Structs** | Custom data types, operator overloading |
 | **File Handling** | Reading and writing files in C++ |
 | **Linked Lists** | Node structs, insertion, deletion, traversal, recursion |
+
+---
+
+## 🗂️ Mini Projects
+
+Three small systems built to apply ITP concepts beyond lab tasks:
+
+| Project | What It Does | Key Concepts |
+|:--------|:-------------|:-------------|
+| **Car Rental System** | Rent and return cars with availability tracking | Arrays, loops, boolean logic |
+| **Expense Tracker** | Log and analyse personal spending by category | Vectors, functions, pass-by-reference |
+| **Grade Management** | Manage student records, grades, and class average | Arrays, conditionals, formatted output |
+
+Each project has its own README inside its folder.
 
 ---
 
