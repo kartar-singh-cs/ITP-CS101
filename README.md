@@ -74,8 +74,6 @@ Each project has its own README inside its folder.
 
 The linked list labs at the end were the most interesting — writing `insertEnd()`, reversing a list iteratively, and removing duplicates using operator overloading pushed me to actually think about memory instead of just writing code that runs.
 
-The pointer labs were also where things started clicking. Understanding why `Node* next` works the way it does made building my [Snake Game](https://github.com/kartar-singh-cs/snake-game-cpp) using a custom linked list much more intuitive later.
-
 ---
 
 ## ⚙️ How to Run Any Task
