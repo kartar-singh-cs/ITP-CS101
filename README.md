@@ -1,7 +1,7 @@
 # Introduction to Programming — CSE141
 ![C++](https://img.shields.io/badge/Language-C%2B%2B17-blue?style=flat-square)
 ![IBA](https://img.shields.io/badge/Institute-IBA%20Karachi-yellow?style=flat-square)
-![Course](https://img.shields.io/badge/Course-CSE141-lightgrey?style=flat-square)
+![Course](https://img.shields.io/badge/Course-ITP-lightgrey?style=flat-square)
 
 My lab work, assignments, and mini projects from Introduction to Programming at IBA Karachi. This was my first proper C++ course — it started from the absolute basics and built up to pointers, structs, and linked lists by the end.
 
@@ -12,7 +12,7 @@ Looking back at Lab 1 versus Lab 12 is a pretty good indicator of how much groun
 ## 📂 Structure
 
 ```
-itp-cs141/
+itp-cs101/
 ├── Labs/
 │   ├── Lab01/    → basics, I/O, escape sequences
 │   ├── Lab02/    → variables, data types, arithmetic
@@ -37,6 +37,9 @@ itp-cs141/
     ├── Car-Rental/         → arrays, loops, boolean availability tracking
     ├── Expense-Tracker/    → vectors, functions, category-wise spending
     └── Grade-Management/   → arrays, grade calculation, class average
+
+assets/
+└── structure.png           # Repository structure screenshot
 ```
 
 ---
@@ -86,6 +89,10 @@ g++ -std=c++17 task1.cpp -o task1
 ```
 
 ---
+
+## 📸 Repository Structure
+
+![Repository Structure](assets/structure.png)
 
 ## 👨‍💻 Developer
 
